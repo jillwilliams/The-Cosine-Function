@@ -4,11 +4,9 @@ body {
     font-size: 1.5rem;
     color: white;
     background-image: linear-gradient(purple, violet);
-
 }
 h1 {
     text-align: center;
-
 }
 /* IMAGE: COS FORMULA */
 #img0 {
@@ -18,7 +16,6 @@ h1 {
     margin-right: 42%;
     border: 1px black solid;
     outline: 1px white solid;
-
 }
 #img1, #img2, #img3, #img4, #img5, #img6, #img7, #img8 {
     width: 20%;
@@ -40,7 +37,6 @@ h1 {
     font-family: "Shadows Into Light", cursive;
     font-size: 1rem;
     color: black;
-
 }
 #demo, #demo1, #demo2 {
     width: 10%;
@@ -55,6 +51,11 @@ h1 {
     color: black;
     background-color: white;
     text-align: center;
+}
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px white solid;
 }
 footer {
     text-align: center;
